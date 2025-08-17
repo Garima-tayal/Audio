@@ -91,10 +91,4 @@ python Audio.py
 **Author**
 ---------
 Garima Tayal 🙋‍♂️
-
-**License**
----------
-
-[Insert license information]
-
 I hope this README provides a comprehensive overview of the Audio PDF Reader project. If you have any questions or need further assistance, please don't hesitate to reach out! 😊
